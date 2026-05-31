@@ -17,7 +17,7 @@
     { id: 'process',   l: 'как работаем',  h: 'https://anotherfashion.agency/560853106869' },
     { id: 'cases',     l: 'статьи · кейсы', h: '/school' },
     { id: 'portfolio', l: 'портфолио',     h: 'https://anotherfashion.agency/our-portfolio' },
-    { id: 'investors', l: 'инвесторам',    h: 'https://anotherfashion.agency/new-page-2' },
+    { id: 'investors', l: 'инвесторам',    h: '/investors' },
     { id: 'contacts',  l: 'контакты',      h: 'https://anotherfashion.agency/contact' },
   ];
   const WHATSAPP = 'https://api.whatsapp.com/send/?phone=79895921739';
