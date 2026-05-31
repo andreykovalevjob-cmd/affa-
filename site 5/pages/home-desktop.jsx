@@ -287,7 +287,7 @@ const Home = () => {
             fontFamily: '"Archivo Black", sans-serif',
             fontSize: isMobile ? 28 : 'clamp(36px, 4.5vw, 72px)', lineHeight: 0.95,
             letterSpacing: '-0.03em', textTransform: 'uppercase',
-          }}>Бренды,<br/>которые делают<br/>свою собственную игру.</div>
+          }}>Бренды,<br/>которые играют<br/>по своим правилам.</div>
         </div>
         {!isMobile && (
           <div style={{
